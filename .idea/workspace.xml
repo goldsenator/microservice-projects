@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99e5acac-c515-479f-ae80-d800fa6b3cfe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/cart/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/CartApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/CartApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/controller/CartCategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/controller/CartCategoryProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/controller/CartController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/controller/CartProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/dto/CartCategoryDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/dto/CartDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/dto/CartProductCategoryDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/dto/CartProductDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/service/ICartCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/service/ICartProductCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/service/ICartProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/service/ICartService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/service/impl/CartCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/service/impl/CartProductCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/service/impl/CartProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/kz/app/cart/shopping/service/impl/CartService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/test/java/kz/app/cart/CartApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/src/main/java/kz/app/cart/shopping/CatalogApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/src/main/java/kz/app/catalog/CatalogApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/src/test/java/kz/app/cart/shopping/CatalogApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/src/test/java/kz/app/catalog/CatalogApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/com/example/customer/CustomerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/kz/app/cart/shopping/CustomerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/kz/app/cart/shopping/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/kz/app/cart/shopping/contoller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/kz/app/cart/shopping/dto/CustomerDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/kz/app/cart/shopping/service/ICustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/kz/app/cart/shopping/service/impl/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/test/java/com/example/customer/CustomerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/test/java/kz/app/cart/shopping/CustomerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/src/main/java/com/example/eureka/EurekaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/src/main/java/kz/app/cart/shopping/eureka/EnableEurekaServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/src/main/java/kz/app/cart/shopping/eureka/EurekaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/src/test/java/com/example/eureka/EurekaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/src/test/java/kz/app/cart/shopping/eureka/EurekaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/.jpb/persistence-units.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/src/main/java/kz/app/cart/shopping/InventoryApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/src/main/java/kz/app/inventory/InventoryApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/src/test/java/kz/app/cart/shopping/InventoryApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/src/test/java/kz/app/inventory/InventoryApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/java/com/example/order/OrderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/java/kz/app/cart/shopping/OrderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/java/kz/app/cart/shopping/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/java/kz/app/cart/shopping/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/java/kz/app/cart/shopping/controller/OrderDetailController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/java/kz/app/cart/shopping/dto/OrderDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/java/kz/app/cart/shopping/dto/OrderDetailDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/java/kz/app/cart/shopping/service/IOrderDetailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/java/kz/app/cart/shopping/service/IOrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/java/kz/app/cart/shopping/service/impl/OrderDetailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/java/kz/app/cart/shopping/service/impl/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/test/java/com/example/order/OrderApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/test/java/kz/app/cart/shopping/OrderApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zNPAAxk672smsjrVWfh8UfN53F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99e5acac-c515-479f-ae80-d800fa6b3cfe" name="Changes" comment="" />
+      <created>1633985463418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633985463418</updated>
+      <workItem from="1633985468950" duration="298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
